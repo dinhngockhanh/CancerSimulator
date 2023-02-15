@@ -1,0 +1,46 @@
+copy_number:
+  0: "#3182BD"
+  1: "#9ECAE1"
+  2: "#CCCCCC"
+  3: "#FDCC8A"
+  4: "#FC8D59"
+  5: "#E34A33"
+  6: "#B30000"
+  7: "#980043"
+  8: "#DD1C77"
+  9: "#DF65B0"
+  10: "#C994C7"
+  # 11+: "#D4B9DA"
+ploidy:
+  Haploid: "red"
+  Diploid: "#CCABD8"
+  Triploid: "blue"
+  Tetraploid: "blue"
+  Polyploid: "#8474A1"
+cn_state:
+  Gain: "#ff0000"
+  Loss: "#0072B2"
+  LOH: "#CCCCCC"
+wgd_status:
+  WGD: "#FC8D59"
+  Non-WGD: "#CCCCCC"
+wgd_clonality:
+  Clonal WGD: "#3182BD"
+  Subclonal WGD: "#9ECAE1"
+  No WGD: "#CCCCCC"
+ascn_state_short:
+  Balanced: "#3182BD"
+  Imbalanced: "#9ECAE1"
+  LOH: "#CCCCCC"
+ascn_state:
+  A-Gained: "#53AFC0"
+  A-Hom: "#025767"
+  A-LOH: "#025767"
+  B-Gained: "#FF9E41"
+  B-Hom: "#A75200"
+  B-LOH: "#9ECAE1"
+  Balanced: "#999999"
+clonality:
+  Clonal: "#6a3d9a"
+  Subclonal: "#e31a1c"
+ 
